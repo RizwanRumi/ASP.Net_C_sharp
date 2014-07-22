@@ -1,0 +1,9 @@
+H:\20-07-2014\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.exe.config
+H:\20-07-2014\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.csprojResolveAssemblyReference.cache
+H:\20-07-2014\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.Properties.Resources.resources
+H:\20-07-2014\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.csproj.GenerateResource.Cache
+H:\20-07-2014\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.exe
+H:\20-07-2014\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.pdb
+H:\20-07-2014\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.exe
+H:\20-07-2014\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.pdb
+H:\20-07-2014\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.AccountOpperationUI.resources
