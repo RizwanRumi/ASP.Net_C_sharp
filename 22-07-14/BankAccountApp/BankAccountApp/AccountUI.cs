@@ -24,7 +24,9 @@ namespace BankAccountApp
         private void createButton_Click(object sender, EventArgs e)
         {
             anAccount = new Account(customerNameTextBox.Text,accountNumberTextBox.Text);
+            anAccount = new Account(accountNumberTextBox.Text);
             anAccount = new Account();
+
           //  anAccount.Name = customerNameTextBox.Text;
          //   anAccount.Number = accountNumberTextBox.Text;
         }

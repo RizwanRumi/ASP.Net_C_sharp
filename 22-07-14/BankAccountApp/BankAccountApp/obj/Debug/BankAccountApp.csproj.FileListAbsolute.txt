@@ -25,3 +25,12 @@ H:\22-07-14\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csprojResolve
 H:\22-07-14\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.AccountUI.resources
 H:\22-07-14\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.Properties.Resources.resources
 H:\22-07-14\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.GenerateResource.Cache
+H:\GIT_C_SHARP\22-07-14\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+H:\GIT_C_SHARP\22-07-14\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe
+H:\GIT_C_SHARP\22-07-14\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.pdb
+H:\GIT_C_SHARP\22-07-14\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe
+H:\GIT_C_SHARP\22-07-14\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.pdb
+H:\GIT_C_SHARP\22-07-14\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csprojResolveAssemblyReference.cache
+H:\GIT_C_SHARP\22-07-14\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.AccountUI.resources
+H:\GIT_C_SHARP\22-07-14\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.Properties.Resources.resources
+H:\GIT_C_SHARP\22-07-14\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.GenerateResource.Cache

@@ -29,10 +29,15 @@ namespace BankAccountApp
             get { return balance; }
         }
 
-        public Account(string number, string name) : this()
+        public Account(string number, string name) : this(number)
         {
             this.name = name;
-            this.number = number;
+            this.Number = number;
+        }
+
+        public Account(string number) : this()
+        {
+            this.Number = number;
         }
 
         public Account()
