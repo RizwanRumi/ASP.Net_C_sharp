@@ -1,0 +1,17 @@
+H:\GIT_C_SHARP\23-07-14\StudentEntryFormApp\StudentEntryFormApp\bin\Debug\StudentEntryFormApp.exe.config
+H:\GIT_C_SHARP\23-07-14\StudentEntryFormApp\StudentEntryFormApp\bin\Debug\StudentEntryFormApp.exe
+H:\GIT_C_SHARP\23-07-14\StudentEntryFormApp\StudentEntryFormApp\bin\Debug\StudentEntryFormApp.pdb
+H:\GIT_C_SHARP\23-07-14\StudentEntryFormApp\StudentEntryFormApp\obj\Debug\StudentEntryFormApp.csprojResolveAssemblyReference.cache
+H:\GIT_C_SHARP\23-07-14\StudentEntryFormApp\StudentEntryFormApp\obj\Debug\StudentEntryFormApp.StudentEntryUI.resources
+H:\GIT_C_SHARP\23-07-14\StudentEntryFormApp\StudentEntryFormApp\obj\Debug\StudentEntryFormApp.Properties.Resources.resources
+H:\GIT_C_SHARP\23-07-14\StudentEntryFormApp\StudentEntryFormApp\obj\Debug\StudentEntryFormApp.csproj.GenerateResource.Cache
+H:\GIT_C_SHARP\23-07-14\StudentEntryFormApp\StudentEntryFormApp\obj\Debug\StudentEntryFormApp.exe
+H:\GIT_C_SHARP\23-07-14\StudentEntryFormApp\StudentEntryFormApp\obj\Debug\StudentEntryFormApp.pdb
+H:\05-08-2014\StudentEntryFormApp\StudentEntryFormApp\bin\Debug\StudentEntryFormApp.exe.config
+H:\05-08-2014\StudentEntryFormApp\StudentEntryFormApp\bin\Debug\StudentEntryFormApp.exe
+H:\05-08-2014\StudentEntryFormApp\StudentEntryFormApp\bin\Debug\StudentEntryFormApp.pdb
+H:\05-08-2014\StudentEntryFormApp\StudentEntryFormApp\obj\Debug\StudentEntryFormApp.StudentEntryUI.resources
+H:\05-08-2014\StudentEntryFormApp\StudentEntryFormApp\obj\Debug\StudentEntryFormApp.Properties.Resources.resources
+H:\05-08-2014\StudentEntryFormApp\StudentEntryFormApp\obj\Debug\StudentEntryFormApp.csproj.GenerateResource.Cache
+H:\05-08-2014\StudentEntryFormApp\StudentEntryFormApp\obj\Debug\StudentEntryFormApp.exe
+H:\05-08-2014\StudentEntryFormApp\StudentEntryFormApp\obj\Debug\StudentEntryFormApp.pdb
