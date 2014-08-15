@@ -1,0 +1,13 @@
+H:\08-08-2014\StudentEntryWithDatabaseApp\StudentEntryWithDatabaseApp\bin\Debug\StudentEntryWithDatabaseApp.exe.config
+H:\08-08-2014\StudentEntryWithDatabaseApp\StudentEntryWithDatabaseApp\bin\Debug\StudentEntryWithDatabaseApp.exe
+H:\08-08-2014\StudentEntryWithDatabaseApp\StudentEntryWithDatabaseApp\bin\Debug\StudentEntryWithDatabaseApp.pdb
+H:\08-08-2014\StudentEntryWithDatabaseApp\StudentEntryWithDatabaseApp\obj\Debug\StudentEntryWithDatabaseApp.csprojResolveAssemblyReference.cache
+H:\08-08-2014\StudentEntryWithDatabaseApp\StudentEntryWithDatabaseApp\obj\Debug\StudentEntryWithDatabaseApp.StudentEntryWithDatabaseUI.resources
+H:\08-08-2014\StudentEntryWithDatabaseApp\StudentEntryWithDatabaseApp\obj\Debug\StudentEntryWithDatabaseApp.Properties.Resources.resources
+H:\08-08-2014\StudentEntryWithDatabaseApp\StudentEntryWithDatabaseApp\obj\Debug\StudentEntryWithDatabaseApp.csproj.GenerateResource.Cache
+H:\08-08-2014\StudentEntryWithDatabaseApp\StudentEntryWithDatabaseApp\obj\Debug\StudentEntryWithDatabaseApp.exe
+H:\08-08-2014\StudentEntryWithDatabaseApp\StudentEntryWithDatabaseApp\obj\Debug\StudentEntryWithDatabaseApp.pdb
+H:\08-08-2014\StudentEntryWithDatabaseApp\StudentEntryWithDatabaseApp\bin\Debug\StudentEntry.mdf
+H:\08-08-2014\StudentEntryWithDatabaseApp\StudentEntryWithDatabaseApp\bin\Debug\StudentEntry_log.ldf
+H:\08-08-2014\StudentEntryWithDatabaseApp\StudentEntryWithDatabaseApp\obj\Debug\StudentEntryWithDatabaseApp.DepartmentUI.resources
+H:\08-08-2014\StudentEntryWithDatabaseApp\StudentEntryWithDatabaseApp\obj\Debug\StudentEntryWithDatabaseApp.StudentUI.resources
