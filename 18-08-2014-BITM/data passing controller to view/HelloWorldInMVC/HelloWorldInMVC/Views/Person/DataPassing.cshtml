@@ -1,0 +1,37 @@
+﻿@model IEnumerable<HelloWorldInMVC.Models.Person>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DataPassing</title>
+</head>
+    <body>
+    
+        <p>
+            @*No of Persons: @Model.Count*@
+        </p>
+        
+
+        @*@{
+            Person aPerson = ViewBag.Person;
+        }    
+        
+        <p>@aPerson.Name</p>
+        <p>@aPerson.Age</p>
+        <p>@ViewBag.Person.Address</p>*@
+
+        
+        
+
+        @*<p> @ViewBag.PersonName</p> 
+    <p> @ViewBag.PersonAge</p>
+    <p> @ViewBag.Email</p>*@
+
+    </body>
+</html>
