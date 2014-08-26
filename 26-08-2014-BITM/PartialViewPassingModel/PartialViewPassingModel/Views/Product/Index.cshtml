@@ -1,0 +1,34 @@
+﻿@model IEnumerable<PartialViewPassingModel.Models.Product>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<table class="table">
+    <tr>
+        <th>
+           ID
+        </th>
+        <th>
+            @Html.DisplayNameFor(p => p.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(p => p.Price)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var aProduct in Model)
+    {
+        <tr>
+            <td> @aProduct.ProductId </td>
+            <td> @aProduct.Name </td>
+            <td> @aProduct.Price </td>
+        </tr>
+
+    }
+
+    
+</table>
+@Html.ActionLink("Create  product List", "Create")
