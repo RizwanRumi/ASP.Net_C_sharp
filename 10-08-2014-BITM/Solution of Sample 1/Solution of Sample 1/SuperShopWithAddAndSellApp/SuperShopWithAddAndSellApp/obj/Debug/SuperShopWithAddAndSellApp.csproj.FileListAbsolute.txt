@@ -1,0 +1,80 @@
+H:\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.exe.config
+H:\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.exe
+H:\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.pdb
+H:\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.csprojResolveAssemblyReference.cache
+H:\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.ShopUI.resources
+H:\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.Properties.Resources.resources
+H:\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.csproj.GenerateResource.Cache
+H:\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.exe
+H:\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.pdb
+H:\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.AddItemUI.resources
+I:\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.exe.config
+I:\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.exe
+I:\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.pdb
+D:\LICT Project\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.exe.config
+D:\LICT Project\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.exe
+D:\LICT Project\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.pdb
+D:\LICT Project\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.csprojResolveAssemblyReference.cache
+D:\LICT Project\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.AddItemUI.resources
+D:\LICT Project\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.ShopUI.resources
+D:\LICT Project\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.Properties.Resources.resources
+D:\LICT Project\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.csproj.GenerateResource.Cache
+D:\LICT Project\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.exe
+D:\LICT Project\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.pdb
+D:\LICT Project\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.SellItem.resources
+E:\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.exe.config
+E:\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.exe
+E:\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.pdb
+C:\Users\acer\Desktop\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShop.mdf
+C:\Users\acer\Desktop\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShop_log.ldf
+C:\Users\acer\Desktop\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.exe.config
+C:\Users\acer\Desktop\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.exe
+C:\Users\acer\Desktop\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.pdb
+C:\Users\acer\Desktop\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.AddItemUI.resources
+C:\Users\acer\Desktop\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.SellItem.resources
+C:\Users\acer\Desktop\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.ShopUI.resources
+C:\Users\acer\Desktop\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.Properties.Resources.resources
+C:\Users\acer\Desktop\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.exe
+C:\Users\acer\Desktop\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.pdb
+E:\FTFL-ITS-2014000122\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.exe.config
+E:\FTFL-ITS-2014000122\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.exe
+E:\FTFL-ITS-2014000122\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.pdb
+E:\FTFL-ITS-2014000122\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShop.mdf
+E:\FTFL-ITS-2014000122\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShop_log.ldf
+E:\FTFL-ITS-2014000122\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.exe
+E:\FTFL-ITS-2014000122\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.pdb
+E:\FTFL-ITS-2014000122\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.csprojResolveAssemblyReference.cache
+E:\FTFL-ITS-2014000122\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.AddItemUI.resources
+E:\FTFL-ITS-2014000122\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.SellItem.resources
+E:\FTFL-ITS-2014000122\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.ShopUI.resources
+E:\FTFL-ITS-2014000122\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.Properties.Resources.resources
+E:\FTFL-ITS-2014000122\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.csproj.GenerateResource.Cache
+E:\FTFL - batch 01 - ASP.Net MVC\Day 17. 07-Aug-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.exe.config
+E:\FTFL - batch 01 - ASP.Net MVC\Day 17. 07-Aug-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.exe
+E:\FTFL - batch 01 - ASP.Net MVC\Day 17. 07-Aug-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.pdb
+E:\FTFL - batch 01 - ASP.Net MVC\Day 17. 07-Aug-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShop.mdf
+E:\FTFL - batch 01 - ASP.Net MVC\Day 17. 07-Aug-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShop_log.ldf
+E:\FTFL - batch 01 - ASP.Net MVC\Day 17. 07-Aug-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.exe
+E:\FTFL - batch 01 - ASP.Net MVC\Day 17. 07-Aug-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.pdb
+E:\FTFL - batch 01 - ASP.Net MVC\Day 17. 07-Aug-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.csprojResolveAssemblyReference.cache
+E:\FTFL - batch 01 - ASP.Net MVC\Day 17. 07-Aug-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.AddItemUI.resources
+E:\FTFL - batch 01 - ASP.Net MVC\Day 17. 07-Aug-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.SellItem.resources
+E:\FTFL - batch 01 - ASP.Net MVC\Day 17. 07-Aug-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.ShopUI.resources
+E:\FTFL - batch 01 - ASP.Net MVC\Day 17. 07-Aug-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.Properties.Resources.resources
+E:\FTFL - batch 01 - ASP.Net MVC\Day 17. 07-Aug-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.csproj.GenerateResource.Cache
+C:\Users\OOP\Desktop\Solution of Sample 2\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.exe.config
+C:\Users\OOP\Desktop\Solution of Sample 2\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.exe
+C:\Users\OOP\Desktop\Solution of Sample 2\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.pdb
+C:\Users\OOP\Desktop\Solution of Sample 2\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.csprojResolveAssemblyReference.cache
+C:\Users\OOP\Desktop\Solution of Sample 2\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.AddProductUI.resources
+C:\Users\OOP\Desktop\Solution of Sample 2\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.SellProductUI.resources
+C:\Users\OOP\Desktop\Solution of Sample 2\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.ShopUI.resources
+C:\Users\OOP\Desktop\Solution of Sample 2\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.Properties.Resources.resources
+C:\Users\OOP\Desktop\Solution of Sample 2\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.csproj.GenerateResource.Cache
+C:\Users\OOP\Desktop\Solution of Sample 2\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShop.mdf
+C:\Users\OOP\Desktop\Solution of Sample 2\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShop_log.ldf
+C:\Users\OOP\Desktop\Solution of Sample 2\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.exe
+C:\Users\OOP\Desktop\Solution of Sample 2\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.pdb
+H:\10-08-2014\Solution of Sample 1\Solution of Sample 1\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.exe.config
+H:\10-08-2014\Solution of Sample 1\Solution of Sample 1\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.pdb
