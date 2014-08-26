@@ -1,0 +1,52 @@
+﻿@using MvcCountryCityWeb.Models
+@model IEnumerable<Country>
+
+@{
+    ViewBag.Title = "Country Entry";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Country Entry</h2>
+
+@{
+    Country aCountry = new Country();
+    @Html.Partial("~/Views/Country/Create.cshtml", aCountry)   
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.About)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.About)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.CountryId }) |
+                @Html.ActionLink("Details", "Details", new { id=item.CountryId }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.CountryId })
+            </td>
+        </tr>
+    }
+
+</table>
+
+@Html.ActionLink("Create City  ", "Index", "City")
+@Html.ActionLink("Search Cities   ", "Index", "ViewCities")
+@Html.ActionLink("Search Countries  ", "Index", "ViewCountry")
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

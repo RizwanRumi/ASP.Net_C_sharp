@@ -1,0 +1,125 @@
+﻿@using System.Web.Mvc.Html
+@using Show_country_DropDownApp.Models
+@model IEnumerable<Show_country_DropDownApp.Models.City>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @{
+        City aCity = new City();
+        @Html.Partial("SearchCountry", aCity)
+
+    }
+</p>
+    
+@*{
+    int flag = 1;
+    if (flag == 1)
+    {
+        flag = 2;
+        
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Countries.CountryName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CityName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.About)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.NoOfDwellers)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Location)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Weather)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Countries.CountryName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CityName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.About)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NoOfDwellers)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Location)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Weather)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new {id = item.CityId}) |
+                        @Html.ActionLink("Details", "Details", new {id = item.CityId}) |
+                        @Html.ActionLink("Delete", "Delete", new {id = item.CityId})
+                    </td>
+                </tr>
+            }
+
+        </table>
+    }
+    else *@
+    {
+    <table class="table">
+    <tr>
+        <th>
+           Country Name
+        </th>
+        <th>
+            About Country
+        </th>
+        <th>
+            No of City
+        </th>
+        <th>
+            No of Dwellers
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Countries.CountryName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Countries.About)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CityId.count())
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NoOfDwellers.Count())
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.CityId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.CityId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.CityId })
+            </td>
+        </tr>
+    }
+
+</table>
+    }
+
+}
+ 

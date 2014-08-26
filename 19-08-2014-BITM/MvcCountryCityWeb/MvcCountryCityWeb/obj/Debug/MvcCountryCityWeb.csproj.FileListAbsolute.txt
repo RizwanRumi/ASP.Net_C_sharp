@@ -1,0 +1,165 @@
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\MvcCountryCityWeb.dll.config
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\MvcCountryCityWeb.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\MvcCountryCityWeb.pdb
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Antlr3.Runtime.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\EntityFramework.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\EntityFramework.SqlServer.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Newtonsoft.Json.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Owin.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Helpers.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Mvc.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Optimization.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Razor.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.WebPages.Deployment.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.WebPages.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.WebPages.Razor.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\WebGrease.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Helpers.xml
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Mvc.xml
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Optimization.xml
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Razor.xml
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.WebPages.xml
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.WebPages.Deployment.xml
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.WebPages.Razor.xml
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Newtonsoft.Json.xml
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Antlr3.Runtime.pdb
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\EntityFramework.xml
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\EntityFramework.SqlServer.xml
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.xml
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.xml
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\obj\Debug\MvcCountryCityWeb.dll
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\obj\Debug\MvcCountryCityWeb.pdb
+D:\Jonayet\ASP .NET Training\Day 22 - 14 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\obj\Debug\MvcCountryCityWeb.csprojResolveAssemblyReference.cache
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\MvcCountryCityWeb.dll.config
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\MvcCountryCityWeb.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\MvcCountryCityWeb.pdb
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Antlr3.Runtime.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\EntityFramework.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\EntityFramework.SqlServer.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Newtonsoft.Json.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Owin.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Helpers.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Mvc.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Optimization.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Razor.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.WebPages.Deployment.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.WebPages.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.WebPages.Razor.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\WebGrease.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Helpers.xml
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Mvc.xml
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Optimization.xml
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Razor.xml
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.WebPages.xml
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.WebPages.Deployment.xml
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.WebPages.Razor.xml
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Newtonsoft.Json.xml
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Antlr3.Runtime.pdb
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\EntityFramework.xml
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\EntityFramework.SqlServer.xml
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.xml
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.xml
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\obj\Debug\MvcCountryCityWeb.dll
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\obj\Debug\MvcCountryCityWeb.pdb
+D:\Jonayet\ASP .NET Training\Day 23 - 17 August 2014\Practices\MvcCountryCityWeb\MvcCountryCityWeb\obj\Debug\MvcCountryCityWeb.csprojResolveAssemblyReference.cache
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\MvcCountryCityWeb.dll.config
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\MvcCountryCityWeb.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\MvcCountryCityWeb.pdb
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Antlr3.Runtime.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\EntityFramework.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\EntityFramework.SqlServer.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.AspNet.Identity.Core.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Cookies.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Facebook.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Google.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.OAuth.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Twitter.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Web.Infrastructure.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Newtonsoft.Json.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Owin.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Helpers.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Mvc.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Optimization.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Razor.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.WebPages.Deployment.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.WebPages.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.WebPages.Razor.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\WebGrease.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Helpers.xml
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Mvc.xml
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Optimization.xml
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.Razor.xml
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.WebPages.xml
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.WebPages.Deployment.xml
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\System.Web.WebPages.Razor.xml
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Newtonsoft.Json.xml
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Antlr3.Runtime.pdb
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\EntityFramework.xml
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\EntityFramework.SqlServer.xml
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.AspNet.Identity.Core.xml
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.xml
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.xml
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Facebook.xml
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Cookies.xml
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.OAuth.xml
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Google.xml
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.Twitter.xml
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\obj\Debug\MvcCountryCityWeb.csprojResolveAssemblyReference.cache
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\obj\Debug\MvcCountryCityWeb.dll
+H:\19-08-2014\MvcCountryCityWeb\MvcCountryCityWeb\obj\Debug\MvcCountryCityWeb.pdb
