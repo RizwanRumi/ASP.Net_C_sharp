@@ -1,0 +1,17 @@
+﻿@model AspDropdownTestApp.Models.Student
+@{
+    ViewBag.Title = Model;
+   Model.Name = "Shams";
+   Model.RegNo = "420";
+    Model.StudentId = 42;
+  
+    
+    
+    
+}
+
+<h2>Index2</h2>
+
+
+@Html.Partial("~/Views/Shared/_PartialView01.cshtml",Model)
+

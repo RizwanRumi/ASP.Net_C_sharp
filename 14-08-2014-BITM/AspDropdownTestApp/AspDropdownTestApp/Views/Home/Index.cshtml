@@ -1,0 +1,39 @@
+﻿@using System.Web.UI.WebControls
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>ASP.NET</h1>
+    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
+    <p><a href="http://asp.net" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
+</div>
+
+<div id="display" onclick="clickChange()">
+    <p>
+        This is main paragraph.
+    </p>
+</div>
+
+
+@Html.Partial("~/views/shared/_PartialView01.cshtml",ViewData["msg"])
+
+<script language="javascript" type="text/javascript">
+        $(function() {
+            $("p").click(function() {
+                $(this).slideUp();
+            });
+        } );
+
+        function clickChange() {
+            document.getElementById("display").innerHTML = "<p> This is changed para";
+        }
+        function clickChange02() {
+            document.getElementById("display").innerHTML = "<p> This is changed para for partial view 01";
+        }
+
+    </script>
+
+
+
+
