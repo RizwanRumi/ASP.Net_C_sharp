@@ -1,0 +1,9 @@
+E:\C#_Practice_BITM\BankAccountManagementApp\BankAccountManagementApp\bin\Debug\BankAccountManagementApp.exe.config
+E:\C#_Practice_BITM\BankAccountManagementApp\BankAccountManagementApp\bin\Debug\BankAccountManagementApp.exe
+E:\C#_Practice_BITM\BankAccountManagementApp\BankAccountManagementApp\bin\Debug\BankAccountManagementApp.pdb
+E:\C#_Practice_BITM\BankAccountManagementApp\BankAccountManagementApp\obj\Debug\BankAccountManagementApp.csprojResolveAssemblyReference.cache
+E:\C#_Practice_BITM\BankAccountManagementApp\BankAccountManagementApp\obj\Debug\BankAccountManagementApp.BankAccountManagementUI.resources
+E:\C#_Practice_BITM\BankAccountManagementApp\BankAccountManagementApp\obj\Debug\BankAccountManagementApp.Properties.Resources.resources
+E:\C#_Practice_BITM\BankAccountManagementApp\BankAccountManagementApp\obj\Debug\BankAccountManagementApp.csproj.GenerateResource.Cache
+E:\C#_Practice_BITM\BankAccountManagementApp\BankAccountManagementApp\obj\Debug\BankAccountManagementApp.exe
+E:\C#_Practice_BITM\BankAccountManagementApp\BankAccountManagementApp\obj\Debug\BankAccountManagementApp.pdb
